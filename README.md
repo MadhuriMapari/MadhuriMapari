@@ -4,9 +4,6 @@ Passionate about AI and ML since day one, I am driven by curiosity and a relentl
 - My Journey
 My journey into the world of AI began with a fascination for algorithms, and it quickly evolved into an unquenchable thirst to understand how machines can mimic human intelligence. From experimenting with neural networks to exploring the depths of deep learning, my journey has been nothing short of a thrilling adventure.
 
-- Never Stop Exploring
-In the realm of AI, there's always something new to learn and explore. I'm constantly sharpening my skills through online courses, participating in hackathons, and actively contributing to the AI community on GitHub.
-
 - Let's Collaborate!
 I'm open to collaborations, mentorships, and discussions on all things AI. If you're as passionate about AI as I am or have an exciting project in mind, let's connect! Together, we can unlock the true potential of Artificial Intelligence.
 
